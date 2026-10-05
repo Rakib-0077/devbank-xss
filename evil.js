@@ -1,6 +1,6 @@
 // FIT5003 A2 - Part B.2 : externally-hosted attack script (Student 35884932)
-// Host this on your own GitHub repo and load it via the jsDelivr CDN:
-//   https://cdn.jsdelivr.net/gh/<user>/<repo>@main/evil.js
+// Hosted this on my own GitHub repo and load it via the jsDelivr CDN:
+//   https://cdn.jsdelivr.net/gh/Rakib-0077/devbank-xss@main/evil.js
 // Loaded via the reflected-XSS crafted URL, this runs in the VICTIM's
 // authenticated session and silently changes their email + password,
 // giving the attacker full account takeover (no CSRF token is required).
